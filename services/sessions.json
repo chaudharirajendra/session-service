@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "machine_id": "12345",
+    "details": "Session #1",
+    "timestamp": "2024-01-02T19:02:00Z"
+  },
+  {
+    "id": "2",
+    "machine_id": "12345",
+    "details": "Session #2",
+    "timestamp": "2024-01-02T20:00:00Z"
+  },
+  {
+    "id": "3",
+    "machine_id": "12345",
+    "details": "Session #3",
+    "timestamp": "2024-01-02T22:00:00Z"
+  }
+]
